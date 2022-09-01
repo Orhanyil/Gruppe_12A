@@ -15,3 +15,6 @@ Henny Rushfeldt
 | Henny Rushfeldt |	https://github.com/hennyrush/IND-REPOSITORY.git |
 | Orhan Yildirim |	https://git@github.com/Orhanyil/IND-REPOSITORY.git |
 
+Møtereferat
+
+Prosessen i gruppen var samkjørt, og vi samarbeidet med hverandre og google for å komme fram til resultatet. Vi brukte div. linker og Markdown til oppgaven. Utfordringer vi fikk: Problem med URL, "remote origin already exists" da brukte vi google og fant "git remote set-url origin "URL". En uverifisert konto, som etter hvert ble verifisert. Selvevaluering: Henny 1, Annette 2, Orhan 3, Martin 2, Mathias 2, Benjamin 3.
