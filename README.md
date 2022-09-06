@@ -22,3 +22,6 @@ Prosessen i gruppen var samkjørt, og vi samarbeidet med hverandre og google for
 
 Hallo dette er martin
 hei dette er mathias
+
+Heihei fra Annette!!
+
