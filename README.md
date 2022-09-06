@@ -1,5 +1,5 @@
 # Gruppe_12B
-Gruppe arbeid for IS-114
+Gruppearbeid for IS-114
 Orhan Yildirim
 
 Martin Steiro
