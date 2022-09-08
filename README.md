@@ -9,6 +9,7 @@ Annette Aas Brynhildsen
 Henny Rushfeldt
 
 | Fullt navn |	URL-Link |
+| -----------| --------- |
 | Mathias Ladiszlaidesz |	https://github.com/Mathiasladisz/IND-REPOSITORY.git |
 | Benjamin Hole |	https://github.com/Benjamineternity/IND-REPOSITORY.git |
 | Martin Steiro |	https://github.com/martinsteiro/IND-REPOSITORY.git |
