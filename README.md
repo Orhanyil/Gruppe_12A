@@ -2,11 +2,11 @@
 Gruppearbeid for IS-114
 Orhan Yildirim
 
-Martin Steiro
-Mathias Ladiszlaidesz
-Benjamin Hole
-Annette Aas Brynhildsen
-Henny Rushfeldt
+Martin Steiro,
+Mathias Ladiszlaidesz,
+Benjamin Hole,
+Annette Aas Brynhildsen,
+Henny Rushfeldt,
 
 | Fullt navn |	URL-Link |
 | -----------| --------- |
