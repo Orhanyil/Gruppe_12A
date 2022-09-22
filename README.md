@@ -1,5 +1,4 @@
-# GRUPPE-12B_FLAGGOPPGAVE
-FLAGGOPPGAVE
+# GRUPPE-12B SIN FLAGGOPPGAVE
 
 | Fullt navn |	Github |
 | -----------| --------- |
