@@ -1,7 +1,7 @@
 # GRUPPE-12B_FLAGGOPPGAVE
 FLAGGOPPGAVE
 
-| Fullt navn |	URL-Link |
+| Fullt navn |	Github |
 | -----------| --------- |
 | Mathias Ladiszlaidesz |	https://github.com/Mathiasladisz/IND-REPOSITORY.git |
 | Benjamin Hole |	https://github.com/Benjamineternity/IND-REPOSITORY.git |
