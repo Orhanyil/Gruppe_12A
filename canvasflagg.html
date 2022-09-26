@@ -10,14 +10,15 @@
 </head>
 <body>
     
-    <canvas id="sverige">
+    <canvas id="sverige" width="300" height="300">
     </canvas>
     
     <script>
 
         let sverigeCanvas = document.querySelector('#sverige');
         let c1 = sverigeCanvas.getContext('2d');
-
+        
+        //fillRect(x, y, width, height)
         c1.fillStyle = '#006AA7'; // blå
         c1.fillRect(0,0,75,60);
         c1.fillStyle = '#FECC02'; // gul v
@@ -30,7 +31,7 @@
         c1.fillRect(105,0,135,60);
         c1.fillStyle = '#006AA7'; // blå
         c1.fillRect(105,90,135,60);
-        
+
     </script>
 
 </body>
