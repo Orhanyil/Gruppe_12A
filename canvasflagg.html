@@ -10,13 +10,13 @@
 </head>
 <body>
     
-    <canvas id="sverigeFlagg" width="300" height="300">
+    <canvas id="sverigeFlagg">
     </canvas>
     
     <script>
 
-        const canvas = document.querySelector('#sverigeFlagg');
-        const c1 = sverigeCanvas.getContext('2d');
+        let canvas = document.querySelector('#sverigeFlagg');
+        let c1 = canvas.getContext('2d');
         
         //fillRect(x, y, width, height)
         c1.fillStyle = '#006AA7'; // blå
