@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sverige Flagg</title>
+    
+</head>
+<body>
+    <canvas id="sverige"></canvas>
+    
+    <script>
+
+let sverigeCanvas = document.querySelector('#sverige');
+let c1 = sverigeCanvas.getContext('2d');
+
+c1.fillStyle = '#006AA7'; // blå
+c1.fillRect(0,0,75,60);
+c1.fillStyle = '#FECC02'; // gul v
+c1.fillRect(75,0,30,150);
+c1.fillStyle = '#FECC02'; // gul h
+c1.fillRect(0,60,240,30);
+c1.fillStyle = '#006AA7'; // blå
+c1.fillRect(0,90,75,60);
+c1.fillStyle = '#006AA7'; // blå
+c1.fillRect(105,0,135,60);
+c1.fillStyle = '#006AA7'; // blå
+c1.fillRect(105,90,135,60);
+    </script>
+
+</body>
+</html>
