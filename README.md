@@ -44,7 +44,7 @@ Ulempen med Canvas er at for mer kompliserte flagg med tegninger på kan det væ
 
 Flaggloven. *Lag om Sveriges flagga* [1982-269]. Riksdagen. https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269
 
-Schemecolor(u.å). Sweden Flag Colors Hex, RGB & CMYK Codes. Hentet 3. oktober 2022 fra https://www.schemecolor.com/sweden-flag-colors.php#:~:text=Sweden%20Flag%20Colors%20Hex%2C%20RGB%20%26%20CMYK%20Codes.,and%20CMYK%20codes%20are%20in%20the%20table%20below.
+Schemecolor. (u.å). *Sweden Flag Colors Hex, RGB & CMYK Codes*. Hentet 3. oktober 2022 fra https://www.schemecolor.com/sweden-flag-colors.php#:~:text=Sweden%20Flag%20Colors%20Hex%2C%20RGB%20%26%20CMYK%20Codes.,and%20CMYK%20codes%20are%20in%20the%20table%20below.
 
 MDN Web Docs. (2022, 2. september). *Canvas API*. Hentet 3. oktober 2022 fra: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 
