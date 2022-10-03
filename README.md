@@ -37,7 +37,8 @@ og for å hente id fra html i javascript: ```document.getElementById("blank")```
 laget det, og ved å bruke ```<center></center>``` koden, løste vi dette problemet. Vi synes det er veldig praktisk å bruke koordinatsystemet til javascript for å plassere et gult kors på blå bakgrunn.
 
 
-Referanser:  
+
+**Referanser:**
 
 Flaggloven. *Lag om Sveriges flagga* [1982-269]. Riksdagen. https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269
 
