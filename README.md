@@ -17,18 +17,29 @@ b) en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryt
 
 ....
 
+c) en beskrivelse med definisjoner og refleksjon rundt prosessen for implementering av de 3 løsningene og en analyse av forskjeller, fordeler og ulemper med de tre løsningene 4a), 4b) og 4c)
+
+
+4a)
 Vi lagde først det tyske flagget, i p-elementet går det kun an å ha horisontale flagg, dette ble da bakgrunnen for valget. En ulempe med å lage flagg i dette elementet er at det som sagt kun kan være horisontale, men fordelen med dette er at det er lett om man skal lage flere flagg da det bare er å kopiere koden og endre farger og evt. dimensjonene. 
 Vi ble plutselig litt usikre om vi skulle ha tre flagg på hver oppgave, så vi lagde to flagg til. Dette var da Litauen og Mauritius. Fikk senere svar fra Janis at det kun var ett flagg per oppgave. Synes da at Mauritius var et mer eksotisk valg og byttet til dette.
 Vi valgte som sagt å ha Mauritius' flagg, for å finne rett dimensjon og farge brukte vi Wikipedia sin side, Flag of Mauritius, (Wikipedia, 2022), disse dimensjonene var da 2:3, dette gjør langsida til 300px og kortsida 200px etter litt kjapp matematikk. 
 
 For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top i den første p style. 
 
+4b)
 
+
+4c)
+
+Når vi skulle lage et flagg med canvas API måtte vi først finne ut hvordan en bruker denne funksjonen. Det gjorde vi vet å gå gjennom Canvas API på MDN Web Docs. Her fant vi blant annet ut hva vi måtte skrive i html for å vise det på nettsiden: "<canvas id="blank"></canvas>" og i javascript: "document.getElementById("canvas"), canvas.getContext("2d"); (MDN Web Docs).
 
 Referanser:  
 
 Sverige flaggs dimensjoner og farger (loven): https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269
 Farge kodene: https://www.w3schools.com/colors/colors_picker.asp
 
-Wikipedia. (21. september 2022). Flag of Mauritius. Hentet 30. September 2022 fra:
+MDN Web Docs. (2022, 2. september). <i>Canvas API</i>. Hentet 3. oktober 2022 fra: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+
+Wikipedia. (21. september 2022). Flag of Mauritius. Hentet 30. september 2022 fra:
 https://en.wikipedia.org/wiki/Flag_of_Mauritius
