@@ -32,7 +32,7 @@ For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top 
 
 4c)
 
-Når vi skulle lage et flagg med canvas API måtte vi først finne ut hvordan en bruker denne funksjonen. Det gjorde vi ved å gå gjennom Canvas API på MDN Web Docs. Her fant vi blant annet ut hva vi måtte skrive i html for å vise det på nettsiden: ```<canvas id="blank"></canvas>```
+Når vi skulle lage et flagg med canvas API måtte vi først finne ut hvordan en bruker denne funksjonen. Det gjorde vi ved å gå gjennom Canvas API på MDN Web Docs. Her fant vi blant annet ut hva vi måtte skrive i HTML for å vise det på nettsiden: ```<canvas id="blank"></canvas>```
 
 og for å hente id fra html i javascript: ```document.getElementById("blank")```. Deretter spesifisere at vi skal tegne i 2d: ```canvas.getContext("2d");``` (MDN Web Docs). Nå kunne vi begynne å tegne flagget, men først måtte vi velge et flagg vi ville lage. Det endte opp med å bli Sverige sitt flagg. Når vi skulle lage Sverige sitt flagg på den korrekte måten, trengte vi riktige dimensjoner og fargekoder. Vi fant riktige dimensjonene og fargene til Sverige sitt flagg på Sveriges flagge loven (Flaggloven, 1982, § 1-4), og  kodene til fargene for javascript på internet (schemecolor, u.å.). Da vi hadde problemer med å flytte flagget til midten av siden etter å ha
 laget det, og ved å bruke ```<center></center>``` koden, løste vi dette problemet. Vi synes det er veldig praktisk å bruke koordinatsystemet til javascript for å plassere et gult kors på blå bakgrunn.
