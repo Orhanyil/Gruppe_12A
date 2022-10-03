@@ -38,6 +38,7 @@ og for å hente id fra html i javascript: ```document.getElementById("blank")```
 Referanser:  
 
 Sverige flaggs dimensjoner og farger (loven): https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269
+
 Farge kodene: https://www.w3schools.com/colors/colors_picker.asp
 
 MDN Web Docs. (2022, 2. september). *Canvas API*. Hentet 3. oktober 2022 fra: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
