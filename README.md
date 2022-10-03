@@ -29,6 +29,7 @@ For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top 
 
 4b)
 *Benjamin og Mathias*
+Vi valgte flagget til Østerriket. For å finne all informasjonen vi trengte angående farge, dimensjoner og proporsjoner brukte vi wikipedia sin nettside «Østerrikes flagg», (Wikipedia, 2022), der fant vi ut at størrelsesforholdet var 2:3, dette vil da si at det er ett rektangel. Proporsjonene ble da 180px på langsida og 120px på kortsida.
 
 4c) Canvasflagg
 
