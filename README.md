@@ -32,14 +32,14 @@ For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top 
 
 4c)
 
-Når vi skulle lage et flagg med canvas API måtte vi først finne ut hvordan en bruker denne funksjonen. Det gjorde vi ved å gå gjennom Canvas API på MDN Web Docs. Her fant vi blant annet ut hva vi måtte skrive i html for å vise det på nettsiden: /*"<canvas id="blank"></canvas>"*/ og i javascript: "document.getElementById("canvas"), canvas.getContext("2d"); (MDN Web Docs).
+Når vi skulle lage et flagg med canvas API måtte vi først finne ut hvordan en bruker denne funksjonen. Det gjorde vi ved å gå gjennom Canvas API på MDN Web Docs. Her fant vi blant annet ut hva vi måtte skrive i html for å vise det på nettsiden: "<canvas id="blank"></canvas>" og i javascript: "document.getElementById("canvas"), canvas.getContext("2d"); (MDN Web Docs).
 
 Referanser:  
 
 Sverige flaggs dimensjoner og farger (loven): https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269
 Farge kodene: https://www.w3schools.com/colors/colors_picker.asp
 
-MDN Web Docs. (2022, 2. september). <i>Canvas API</i>. Hentet 3. oktober 2022 fra: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+MDN Web Docs. (2022, 2. september). *Canvas API*. Hentet 3. oktober 2022 fra: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 
-Wikipedia. (21. september 2022). Flag of Mauritius. Hentet 30. september 2022 fra:
+Wikipedia. (21. september 2022). *Flag of Mauritius*. Hentet 30. september 2022 fra:
 https://en.wikipedia.org/wiki/Flag_of_Mauritius
