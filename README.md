@@ -9,15 +9,15 @@
 | Henny Rushfeldt |	https://github.com/hennyrush/IND-REPOSITORY.git |
 | Orhan Yildirim |	https://git@github.com/Orhanyil/IND-REPOSITORY.git |
 
-a)  en beskrivelse av prosessen for valg av “Github projects” og mal for prosjektadministrasjon, samt en beskrivelse av strukturering av “bord” eller “tabell” i “Github projects” (relater til Kanban, Scrum, Scrumban eller annen type metode)
+**a)  en beskrivelse av prosessen for valg av “Github projects” og mal for prosjektadministrasjon, samt en beskrivelse av strukturering av “bord” eller “tabell” i “Github projects” (relater til Kanban, Scrum, Scrumban eller annen type metode)**
 
 Vi valgte å gjennomføre flaggoppgaven med metoden Kanban-oppsett. Vi tenkte at dette var mer oversiktlig for en mindre gruppeoppgave enn Scrum. Dette strukturerte vi i "bord" fordi som tidligere var dette en mindre oppgave der "issues" ikke var svært omfattende som gjorde det mer oversiktig med "bord. 
 
-b) en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryting i Karlsen)
+**b) en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryting i Karlsen)**
 
 ....
 
-c) en beskrivelse med definisjoner og refleksjon rundt prosessen for implementering av de 3 løsningene og en analyse av forskjeller, fordeler og ulemper med de tre løsningene 4a), 4b) og 4c)
+**c) en beskrivelse med definisjoner og refleksjon rundt prosessen for implementering av de 3 løsningene og en analyse av forskjeller, fordeler og ulemper med de tre løsningene 4a), 4b) og 4c)**
 
 
 4a)
@@ -28,7 +28,7 @@ Vi valgte som sagt å ha Mauritius' flagg, for å finne rett dimensjon og farge 
 For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top i den første p style. 
 
 4b)
-
+*Benjamin og Mathias*
 
 4c)
 
