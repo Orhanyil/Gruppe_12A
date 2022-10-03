@@ -28,7 +28,7 @@ Vi valgte som sagt å ha Mauritius' flagg, for å finne rett dimensjon og farge 
 For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top i den første p style. 
 
 4b)
-Vi valgte flagget til Østerriket. For å finne all informasjonen vi trengte angående farge, dimensjoner og proporsjoner brukte vi wikipedia sin nettside «Flag of Austria», (Wikipedia, 2022), der fant vi ut at størrelsesforholdet var 2:3, dette vil da si at det er ett rektangel. Proporsjonene ble da 180px på langsida og 120px på kortsida.
+Vi valgte flagget til Østerriket. For å finne all informasjonen vi trengte angående farge, dimensjoner og proporsjoner brukte vi wikipedia sin nettside «Flag of Austria», (Wikipedia, 2022), der fant vi ut at størrelsesforholdet var 2:3, dette vil da si at det er ett rektangel. Proporsjonene ble da 180px på langsida og 120px på kortsida. Vi måtte sentrifisere det med "<center></center>" for å få det i midten. Fargene ble skrevet med hex-kode.
 
 4c) Canvasflagg
 
