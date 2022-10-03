@@ -33,7 +33,7 @@ For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top 
 4c)
 
 Når vi skulle lage et flagg med canvas API måtte vi først finne ut hvordan en bruker denne funksjonen. Det gjorde vi ved å gå gjennom Canvas API på MDN Web Docs. Her fant vi blant annet ut hva vi måtte skrive i html for å vise det på nettsiden: ```<canvas id="blank"></canvas>```
-og i javascript: ```document.getElementById("blank"), canvas.getContext("2d");``` (MDN Web Docs).
+og for å hente id fra html i javascript: ```document.getElementById("blank")```. Deretter spesifisere at vi skal tegne i 2d: ```canvas.getContext("2d");``` (MDN Web Docs).
 
 Referanser:  
 
