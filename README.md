@@ -39,7 +39,7 @@ laget det, og ved å bruke ```<center></center>``` koden, løste vi dette proble
 
 Referanser:  
 
-Sverige flaggs dimensjoner og farger (loven): https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269
+Flaggloven. *Lag om Sveriges flagga* [1982-269]. Riksdagen. https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269
 
 Farge kodene: https://www.w3schools.com/colors/colors_picker.asp
 
