@@ -33,9 +33,12 @@ For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top 
 4c)
 
 Når vi skulle lage et flagg med canvas API måtte vi først finne ut hvordan en bruker denne funksjonen. Det gjorde vi ved å gå gjennom Canvas API på MDN Web Docs. Her fant vi blant annet ut hva vi måtte skrive i html for å vise det på nettsiden: ```<canvas id="blank"></canvas>```
-og for å hente id fra html i javascript: ```document.getElementById("blank")```. Deretter spesifisere at vi skal tegne i 2d: ```canvas.getContext("2d");``` (MDN Web Docs). Nå kunne vi begynne å tegne flagget, men først måtte vi velge et flagg vi ville lage. Det endte opp med å bli Sverige sitt flagg. Når vi skulle lage Sverige sitt flagg på den korrekte måten, trengte vi riktige dimensjoner og fargekoder. Vi fant riktige dimensjonene og fargene til Sverige sitt flagg på Sveriges flagge loven (Flaggloven, 1982, § 1-4), og  kodene til fargene for javascript på internet (W3schools, u.å). Da vi hadde problemer med å flytte flagget til midten av siden etter å ha laget det, og ved å bruke ```<center></center>``` koden, løste vi dette problemet. 
 
-Vi synes det er veldig praktisk å bruke Canvas API til javascript for å plassere et gult kors på blå bakgrunn. Ulempen med Canvas er at for mer kompliserte flagg med tegninger på kan det være vanskeligere å tegne i canvas. Det kan gjøres ved å farge hver eneste piksel, men dette er tidskrevende. Fordelene er derimot sammenlignet med de to andre oppgavene at Canvas har mer frihet til å tegne på alle mulige måter i HTML så lenge det er i 2d. 
+og for å hente id fra html i javascript: ```document.getElementById("blank")```. Deretter spesifisere at vi skal tegne i 2d: ```canvas.getContext("2d");``` (MDN Web Docs). Nå kunne vi begynne å tegne flagget, men først måtte vi velge et flagg vi ville lage. Det endte opp med å bli Sverige sitt flagg. Når vi skulle lage Sverige sitt flagg på den korrekte måten, trengte vi riktige dimensjoner og fargekoder. Vi fant riktige dimensjonene og fargene til Sverige sitt flagg på Sveriges flagge loven (Flaggloven, 1982, § 1-4), og  kodene til fargene for javascript på internet (schemecolor, u.å.). Da vi hadde problemer med å flytte flagget til midten av siden etter å ha
+laget det, og ved å bruke ```<center></center>``` koden, løste vi dette problemet. Vi synes det er veldig praktisk å bruke koordinatsystemet til javascript for å plassere et gult kors på blå bakgrunn.
+
+Ulempen med Canvas er at for mer kompliserte flagg med tegninger på kan det være vanskeligere å tegne i canvas. Det kan gjøres ved å farge hver eneste piksel, men dette er tidskrevende. Fordelene er derimot sammenlignet med de to andre oppgavene at Canvas har mer frihet til å tegne på alle mulige måter i HTML så lenge det er i 2d. 
+
 
 
 
@@ -43,7 +46,7 @@ Vi synes det er veldig praktisk å bruke Canvas API til javascript for å plasse
 
 Flaggloven. *Lag om Sveriges flagga* [1982-269]. Riksdagen. https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269
 
-Farge kodene: https://www.w3schools.com/colors/colors_picker.asp
+Farge kodene hentet fra https://www.schemecolor.com/sweden-flag-colors.php#:~:text=Sweden%20Flag%20Colors%20Hex%2C%20RGB%20%26%20CMYK%20Codes.,and%20CMYK%20codes%20are%20in%20the%20table%20below.
 
 MDN Web Docs. (2022, 2. september). *Canvas API*. Hentet 3. oktober 2022 fra: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 
