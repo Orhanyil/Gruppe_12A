@@ -15,7 +15,7 @@ Vi valgte å gjennomføre flaggoppgaven med metoden Kanban-oppsett. Vi tenkte at
 
 **b) en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryting i Karlsen)**
 
-....
+Vi brukte prosjekt på Github for å dele opgavene og følge prosesen til oppgaven. Det er 3 deler for oppgavene, pflagg.html (Annette og Henny), cssflagg.html (Benjamin og Mathias),  og canvasflagg.html (Martin og Orhan). Alle gruppemedlemmer jobbet sin egen branch, alle hadde rett til merge. Målet var at alle skulle ha kontroll på Github. På denne måten alle gruppemedlemer skulle øve mer om Github. Vi opplevde noen konflikter når vi merged, men det var lett å løse den fordi hver oppgave ble gjort av bare 2 gruppemedlemer.  
 
 **c) en beskrivelse med definisjoner og refleksjon rundt prosessen for implementering av de 3 løsningene og en analyse av forskjeller, fordeler og ulemper med de tre løsningene 4a), 4b) og 4c)**
 
