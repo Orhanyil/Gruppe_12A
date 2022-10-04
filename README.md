@@ -18,18 +18,18 @@ Vi valgte å gjennomføre flaggoppgaven med metoden Kanban-oppsett. Vi tenkte at
 
 **Prosessen for valg av arbeidsoppgaver**
 
-Vi opprettet et nytt "project" i gruppe-repository på Github for å fordele oppgaven og besvare oppgaveteksten. Oppgaven var delt inn i 3 deler, pflagg.html (Annette og Henny), cssflagg.html (Benjamin og Mathias),  og canvasflagg.html (Martin og Orhan). Målet var at alle skulle få kontroll på Github. På denne måten kunne alle gruppemedlemmene øve seg på Github. Vi opplevde noen utfordringer når vi skulle "merge", men vi løste utfordringen med å drøfte det sammen som gruppe, eller to og to. Som nevnt tidligere ga vi også alle rett til å "merge", noe som hjalp når vi hadde delt inn oppgavene til forskjellige personer. Videre var den orginale planen at alle gruppemedlemmer jobbet i sin "branch" (pflagg ...). Det var ikke slik det endte opp med å bli. Det oppsto noen problemer med "merging" og "git" når vi prøvde å jobbe i branch. Vi endte opp med å heller jobbe i hver vår "fork" hvor vi pushet endringene fra. Vi brukte også "backlog" der vi flyttet de ulike oppgavene fra "todo" til "done", og dette konverterte vi under "issues". 
+Vi opprettet et nytt "project" i gruppe-repository på Github for å fordele oppgaven og for å besvare oppgaveteksten. Oppgaven var delt inn i 3 deler, pflagg.html (Annette og Henny), cssflagg.html (Benjamin og Mathias),  og canvasflagg.html (Martin og Orhan). Målet var at alle skulle få øve og få kontroll på Github. Vi opplevde noen utfordringer når vi skulle "merge", men vi løste utfordringen med å drøfte det sammen som gruppe, eller to og to. Som nevnt tidligere ga vi også alle rett til å "merge", noe som løste seg da vi delte inn oppgavene til grupper på to personer. Videre var den orginale planen at alle gruppemedlemmer skulle jobbe i sin egen "branch" (pflagg osv...). Det var ikke slik det endte opp med å bli. Det oppsto noen problemer med "merging" og "git" når vi prøvde å jobbe selvstendig i branch. Vi endte opp med å heller jobbe i hver vår "fork" hvor vi pushet endringene fra. Vi brukte også "backlog" der vi flyttet de ulike oppgavene fra "todo" til "done", og dette konverterte vi under "issues". 
 
 
 **A) Pflagg**
 
-Vi lagde først det tyske flagget, i p-elementet går det kun an å ha horisontale flagg, dette ble da bakgrunnen for valget. En ulempe med å lage flagg i dette elementet er at det som sagt kun kan være horisontale, men fordelen med dette er at det er lett om man skal lage flere flagg da det bare er å kopiere koden og endre farger og evt. dimensjonene. 
-Vi ble litt usikre om vi skulle ha tre flagg på hver oppgave, så vi lagde to flagg til. Dette var da Litauen og Mauritius. Fikk senere svar fra Janis at det kun var ett flagg per oppgave. Synes da at Mauritius var et mer eksotisk valg og byttet til dette.
-Vi valgte som sagt å ha Mauritius' flagg, for å finne rett dimensjon og farge brukte vi Wikipedia sin side, Flag of Mauritius, (Wikipedia, 2022), disse dimensjonene var da 2:3, dette gjør langsida til 300px og kortsida 200px etter litt kjapp matematikk. 
+Vi lagde først det tyske flagget. I p-elementet går det kun an å ha horisontale flagg, og dette ble bakgrunnen for valget. En ulempe med å lage flagg i dette elementet er at det som sagt kun kan være horisontale, men fordelen med dette er at det er lett om man skal lage flere flagg da det bare er å kopiere koden og endre farger og evt. dimensjonene. 
+Vi ble usikre om vi skulle ha tre flagg på hver oppgave, så vi lagde to flagg til. Dette var da Litauen og Mauritius. Fikk senere svar fra Janis at det kun måtte være et flag per oppgave. Vi byttet til Mauritius da det er et mer eksotisk flagg.
+For å finne rett dimensjon, proposjon og farge brukte vi Wikipedia sin side, Flag of Mauritius, (Wikipedia, 2022), disse dimensjonene var da 2:3, dette gjør langsiden til 300px og kortsiden 200px etter litt kjapp matematikk. 
 
-For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top i den første p style. 
+For å få litt avstand fra toppen av siden til flagget skrev vi inn "margin-top" i den første p style. 
 
-En fordel med Pflagg er at det er lett leselig og forståelig dersom en er ny i koding. På den andre siden er det begrenset hva en kan gjøre når en skal kode i et større format. Pflagg kan også være forvirrende for personer som bruker text-to-speech, da det er tekst i p element. Dette kan være utfordrende for f.eks. svaksynte som er avhengig av kunstig tale/talesystem. 
+En fordel med Pflagg er at det er lett leselig og forståelig dersom en er ny i koding. På den andre siden er det begrenset hva en kan gjøre når en skal kode i et større format. Pflagg kan også være forvirrende for personer som bruker text-to-speech, da det er tekst i p elementet. Dette kan være utfordrende for f.eks. svaksynte som er avhengig av kunstig tale/talesystem. 
 
 
 **B) Cssflagg**
