@@ -24,10 +24,12 @@ Vi brukte prosjekt på Github for å dele opgavene og følge prosesen til oppgav
 **A) Pflagg**
 
 Vi lagde først det tyske flagget, i p-elementet går det kun an å ha horisontale flagg, dette ble da bakgrunnen for valget. En ulempe med å lage flagg i dette elementet er at det som sagt kun kan være horisontale, men fordelen med dette er at det er lett om man skal lage flere flagg da det bare er å kopiere koden og endre farger og evt. dimensjonene. 
-Vi ble plutselig litt usikre om vi skulle ha tre flagg på hver oppgave, så vi lagde to flagg til. Dette var da Litauen og Mauritius. Fikk senere svar fra Janis at det kun var ett flagg per oppgave. Synes da at Mauritius var et mer eksotisk valg og byttet til dette.
+Vi ble litt usikre om vi skulle ha tre flagg på hver oppgave, så vi lagde to flagg til. Dette var da Litauen og Mauritius. Fikk senere svar fra Janis at det kun var ett flagg per oppgave. Synes da at Mauritius var et mer eksotisk valg og byttet til dette.
 Vi valgte som sagt å ha Mauritius' flagg, for å finne rett dimensjon og farge brukte vi Wikipedia sin side, Flag of Mauritius, (Wikipedia, 2022), disse dimensjonene var da 2:3, dette gjør langsida til 300px og kortsida 200px etter litt kjapp matematikk. 
 
 For å få litt avstand fra toppen av siden til flagget skrev vi inn margin-top i den første p style. 
+
+En fordel med Pflagg er at det er lett leselig og forståelig dersom en er ny i koding. På den andre siden er det begrenset hva en kan gjøre når en skal kode i et større format. Pflagg kan også være forvirrende for personer som bruker text-to-speech, da det er tekst i p element. Dette kan være utfordrende for f.eks. svaksynte som er avhengig av kunstig tale/talesystem. 
 
 
 **B) Cssflagg**
