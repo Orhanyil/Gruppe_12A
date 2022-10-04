@@ -24,7 +24,7 @@ Vi opprettet et nytt "project" i gruppe-repository på Github for å fordele opp
 **A) Pflagg**
 
 Vi lagde først det tyske flagget. I p-elementet går det kun an å ha horisontale flagg, og dette ble bakgrunnen for valget. En ulempe med å lage flagg i dette elementet er at det som sagt kun kan være horisontale, men fordelen med dette er at det er lett om man skal lage flere flagg da det bare er å kopiere koden og endre farger og evt. dimensjonene. 
-Vi ble usikre om vi skulle ha tre flagg på hver oppgave, så vi lagde to flagg til. Dette var da Litauen og Mauritius. Fikk senere svar fra Janis at det kun måtte være et flag per oppgave. Vi byttet til Mauritius da det er et mer eksotisk flagg.
+Vi ble usikre om vi skulle ha tre flagg på hver oppgave, så vi lagde to flagg til. Dette var da Litauen og Mauritius. Fikk senere svar fra Janis at det kun måtte være et flagg per oppgave. Vi byttet til Mauritius da det er et mer eksotisk flagg.
 For å finne rett dimensjon, proposjon og farge brukte vi Wikipedia sin side, Flag of Mauritius, (Wikipedia, 2022), disse dimensjonene var da 2:3, dette gjør langsiden til 300px og kortsiden 200px etter litt kjapp matematikk. 
 
 For å få litt avstand fra toppen av siden til flagget skrev vi inn "margin-top" i den første p style. 
