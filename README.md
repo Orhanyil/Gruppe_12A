@@ -9,9 +9,9 @@
 | Henny Rushfeldt |	https://github.com/hennyrush/IND-REPOSITORY.git |
 | Orhan Yildirim |	https://git@github.com/Orhanyil/IND-REPOSITORY.git |
 
-**a)  en beskrivelse av prosessen for valg av “Github projects” og mal for prosjektadministrasjon, samt en beskrivelse av strukturering av “bord” eller “tabell” i “Github projects” (relater til Kanban, Scrum, Scrumban eller annen type metode)**
+**Beskrivelse av prosessen for valg av “Github projects” og mal for prosjektadministrasjon, samt en beskrivelse av strukturering av “bord” eller “tabell” i “Github projects” (relater til Kanban, Scrum, Scrumban eller annen type metode)**
 
-Vi valgte å gjennomføre flaggoppgaven med metoden Kanban-oppsett. Vi tenkte at dette var mer oversiktlig for en mindre gruppeoppgave enn Scrum. Dette strukturerte vi i "bord" fordi som tidligere var dette en mindre oppgave der "issues" ikke var svært omfattende som gjorde det mer oversiktig med "bord. 
+Vi valgte å gjennomføre flaggoppgaven med metoden Kanban-oppsett. Vi tenkte at dette var mer oversiktlig for en mindre gruppeoppgave enn Scrum både for hvordan vi skal planlegge, jobbe under arbeid og dokumentere. Scrum frameworket ble for komplisert for en liten oppgave slik som det vi fikk. Arbeidsoppgavene strukturerte vi i "bord" fordi som tidligere var dette en mindre oppgave der "issues" ikke var svært omfattende som gjorde det mer oversiktig sammenlignet med tabell.  
 
 **b) en beskrivelse av prosessen for valg av relevante arbeidsoppgaver (se nedbryting i Karlsen)**
 
