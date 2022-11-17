@@ -10,7 +10,6 @@
 | Orhan Yildirim |	https://git@github.com/Orhanyil/IND-REPOSITORY.git |
 
 
-
 **Prosessen for valg av “Github projects” og mal for prosjektadministrasjon**
 
 Vi valgte å gjennomføre flaggoppgaven med metoden Kanban-oppsett. Vi tenkte at dette var mer oversiktlig for en mindre gruppeoppgave enn Scrum både for hvordan vi skal planlegge, jobbe under arbeid og dokumentere. Scrum frameworket ble for komplisert for en liten oppgave slik som vi fikk. Vi valgte også å gi alle muligheten til å kunne "pushe" og "merge" sine endringer. Vi tenkte at dette ga mulighet for alle på gruppa å kunne gjøre endringer selvstendig og for oppgaveindelingen ga det muligheten for de som hadde ansvar for sine oppgaver å laste disse opp til main branch. Videre gjorde det også at vi lærte git og Github på en måte der vi kunne se endringene vi gjorde bli lastet opp selv. Arbeidsoppgavene strukturerte vi i "bord" fordi som tidligere var dette en mindre oppgave der "issues" ikke var svært omfattende som gjorde det mer oversiktig sammenlignet med tabell. 
