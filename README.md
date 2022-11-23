@@ -56,5 +56,5 @@ MDN Web Docs. (2022, 2. september). *Canvas API*. Hentet 3. oktober 2022 fra: ht
 Wikipedia. (21. september 2022). *Flag of Mauritius*. Hentet 30. september 2022 fra:
 https://en.wikipedia.org/wiki/Flag_of_Mauritius
 
-Wikipedia. (30. september 2022) *Falg of Austira*. Hentet 3 oktober 2022 fra: https://en.wikipedia.org/wiki/Flag_of_Austria
+Wikipedia. (30. september 2022) *Flag of Austira*. Hentet 3 oktober 2022 fra: https://en.wikipedia.org/wiki/Flag_of_Austria
 
